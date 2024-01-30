@@ -1,0 +1,57 @@
+
+
+@media only screen and (max-width: 1048px) {
+    #form_section{
+        padding-left: 16px;
+        padding-right: 15px;
+    }
+  }
+
+  @media only screen and (max-width: 549px) {
+    #hr_content{
+        gap:1rem;
+        align-items: center;
+    }
+    #hr_tag{
+      width: 100%;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    #circle_height{
+      height: 500px;
+    }
+    #circle_top{
+      top:10%
+    }
+  }
+  @media only screen and (max-width: 400px) {
+    #circle_height{
+      height: 450px;
+    }
+  }
+  @media only screen and (max-width: 300px) {
+    #circle_height{
+      height: 345px;
+    }
+  }
+  @media only screen and (max-width: 300px) {
+    #images_google{
+      gap: 48px;
+    }
+  }
+
+  @media only screen and (max-width: 360px) {
+    #form_section{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .text-blue_gray-100{
+        padding-top: 0.75rem;
+    }
+    .p-\[25px\] {
+        padding: 14px !important;
+    }
+    #password{
+        height:54px ;
+    }
+  }

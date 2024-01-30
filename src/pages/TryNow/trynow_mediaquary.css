@@ -1,0 +1,111 @@
+#hidden_trynow{
+    display: none ;
+}
+.text-gray-700{
+    width: 100%;
+}
+@media only screen and (max-width: 1402px) {
+    #Deatox{
+        margin-top: 10px;
+    }
+  }
+  @media only screen and (max-width: 1272px) {
+    #Deatox{
+        margin-top: 0px;
+    }
+    #text_left_site{
+        margin-bottom: 10px;
+    }
+  }
+
+  @media only screen and (max-width: 1166px) {
+    #text_left_site{
+        margin-top: 20px;
+    }
+    #right_site{
+        margin-top: 20px;
+    }
+    #left_site_main{
+        padding-top: 10px;
+    }
+  }
+  @media only screen and (max-width: 888px) {
+    .text-blue_gray-100{
+        padding-top: 0.75rem;
+    }
+  }
+  @media only screen and (max-width: 815px) {
+    #main_tryNow{
+        display: none !important;
+    }
+    #hidden_trynow{
+        display: block !important;
+    }
+ #left_site_main_content{
+    height: 900px;
+ }
+
+  }
+  @media only screen and (max-width: 562px) {
+    #Deatox{
+        width: 145px;
+    }
+  }
+  @media only screen and (max-width: 562px) {
+    #Deatox{
+        width: 135px;
+    }
+  }
+  @media only screen and (max-width: 481px) {
+    #Deatox{
+        width: 100px;
+    }
+  }
+  @media only screen and (max-width: 440px) {
+    #text_left_site{
+        margin-bottom: 10px;
+    }
+  }
+
+  @media only screen and (max-width: 399px) {
+    #left_site_main{
+        margin-top: 10px !important;
+    }
+    #bolder_text{
+        font-size: 10px !important;
+    }
+  }
+  @media only screen and (max-width: 319px) {
+    #bolder_text{
+        font-size: 10px !important;
+    }
+  }
+  @media only screen and (max-width: 628px) {
+    #bolder_text{
+        font-size: 14px;
+    }
+  }
+  #left_site_main_content{
+    margin-bottom: 15px;
+  }
+  @media only screen and (max-width: 628px) {
+    #heading{
+        font-size: 15px;
+    }
+  }
+  @media only screen and (max-width: 304px) {
+    #Deatox{
+        width: 50px;
+    }
+    #bolder_text{
+        font-size: 8px !important;
+    }
+  }
+  @media only screen and (min-width: 1700px) {
+    .text-blue_gray-100{
+      width: 89%;
+    }
+    #footer_remarks{
+      width: 89%;
+    }
+  }
