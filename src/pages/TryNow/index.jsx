@@ -2,6 +2,7 @@ import React from "react";
 import "../TryNow/trynow_mediaquary.css";
 
 import { Button, Img, Input, Text } from "components";
+import { Link } from "react-router-dom";
 
 const TryNowPage = () => {
   return (
@@ -145,6 +146,7 @@ const TryNowPage = () => {
             src="images/img_342group.svg"
             alt="353group_Two"
           />
+          <Link to="/signup" style={{width:'100%'}}>
           <Button
             className="cursor-pointer font-inter leading-[normal] max-w-[450px] sm:min-w-full mt-10 text-center text-xl"
             shape="square"
@@ -154,6 +156,7 @@ const TryNowPage = () => {
           >
             Submit
           </Button>
+          </Link>
         </div>
         {/* <Text
           className="absolute bottom-[4%] left-[18%] text-blue_gray-900 text-sm"

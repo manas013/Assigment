@@ -22,7 +22,7 @@ const FramePage = () => {
                     </div>
                   
                     <div className="flex flex-col items-start justify-start md:ml-[0] ml-[1218px] sm:px-5 px-8 py-[23px] w-auto">
-                    <Link to="/signup">
+                   
                       <div
                         href="javascript:"
                         className="text-2xl md:text-[22px] text-white-A700 sm:text-xl w-auto"
@@ -31,7 +31,6 @@ const FramePage = () => {
                         <Text size="txtOpenSansRomanRegular24">LOG IN</Text>
                        
                       </div>
-                      </Link>
                     </div>
                   
                     <Link to="/signup">
